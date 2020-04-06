@@ -4,7 +4,7 @@ Initiative to read research papers.
 ## Rules of appending papers:
 1. You should thoroughly read research paper and make proper notes using [HackMD](https://hackmd.io/).
 1. HackMD notes must mention those member who were part of reading group
-1. If notes and paper reading is complete append details in table
+1. If notes and paper reading is completed, then update the details in the appropriate table below.
 1. You can then create pull request to merge this 
 
 ### Reinforcement Learning
