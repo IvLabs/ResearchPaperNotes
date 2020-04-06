@@ -11,6 +11,6 @@ Initiative to read research papers.
 
 | Paper | Link | Notes | Start Date | End Date |
 |:-----:|:----:|:-----:|:----------:|:--------:|
-| Off-Policy Actor-Critic | [Paper](https://arxiv.org/abs/1205.4839 | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkcB-xwvI/edit) | 06/05/2020 |     -    |
+| Off-Policy Actor-Critic | [Paper](https://arxiv.org/abs/1205.4839) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkcB-xwvI/edit) | 06/05/2020 |     -    |
 | | | | | |
 
