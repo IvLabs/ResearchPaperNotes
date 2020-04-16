@@ -9,3 +9,9 @@
 | W-Net: A Deep Model for Fully Unsupervised Image Segmentation | [Paper](https://arxiv.org/abs/1711.08506) | [HackMD](https://hackmd.io/mNcCcyMFRuGLQg97qfTJaQ) | 20/12/2019 | 04/01/2020 |
 | Understanding Deep Learning Techniques for Image Segmentation | [Paper](https://arxiv.org/abs/1907.06119) | [HackMD](https://hackmd.io/RcL7gzVTTLCfJa1LGJGmZg) | 31/10/2019 | 08/12/2019 |
 | Recent progress in semantic image segmentation | [Paper](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf) | [HackMD](https://hackmd.io/UpB9AC5CT0yTUmxGIsIArw) | 28/10/2019 | 07/12/2019 |
+
+### Active Learning
+
+| Paper | Link | Notes | Start Date | End Date |
+|:-----:|:----:|:-----:|:----------:|:--------:|
+| Variational Adversarial Active Learning | [Paper](https://arxiv.org/abs/1904.00370) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | 12/04/2020 | 16/04/2020 |
