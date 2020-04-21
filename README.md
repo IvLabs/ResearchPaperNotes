@@ -2,9 +2,9 @@
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
 ## List of Topics
-* [Reinforcement Learning](https://github.com/IvLabs/ResearchPaperNotes/tree/master/reinforcement_learning)
-* [Deep Learning](https://github.com/IvLabs/ResearchPaperNotes/tree/master/deep_learning)
-* [Math Concepts](https://github.com/IvLabs/ResearchPaperNotes/tree/master/math)
+* [Reinforcement Learning](reinforcement_learning)
+* [Deep Learning](deep_learning)
+* [Math Concepts](math)
 
 ## Rules of appending papers:
 1. You should thoroughly read research paper and make proper notes using [HackMD](https://hackmd.io/).
