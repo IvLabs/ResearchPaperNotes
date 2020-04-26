@@ -15,3 +15,8 @@
 | Paper | Link | Notes | Start Date | End Date |
 |:-----:|:----:|:-----:|:----------:|:--------:|
 | Variational Adversarial Active Learning | [Paper](https://arxiv.org/abs/1904.00370) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | 12/04/2020 | 16/04/2020 |
+
+### Domain Adaptation
+| Paper | Link | Notes | Start Date | End Date |
+|:-----:|:----:|:-----:|:----------:|:--------:|
+| Domain Adaptation for Structured Output via Discriminative Patch Representations | [Paper](https://arxiv.org/abs/1901.05427) | [HackMD](https://hackmd.io/Nh2sTmn1RpSeytghA6E2JQ) | 19/04/2020 | 21/04/2020 |
