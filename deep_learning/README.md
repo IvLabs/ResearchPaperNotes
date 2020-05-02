@@ -20,3 +20,8 @@
 | Paper | Notes | Start Date | End Date |
 |:-----:|:-----:|:----------:|:--------:|
 | [Domain Adaptation for Structured Output via Discriminative Patch Representations](https://arxiv.org/abs/1901.05427) (ICCV '19) | [HackMD](https://hackmd.io/Nh2sTmn1RpSeytghA6E2JQ) | 19/04/2020 | 21/04/2020 |
+
+### Knowledge Distillation
+| Paper | Notes | Start Date | End Date |
+|:-----:|:-----:|:----------:|:--------:|
+| [Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (ICCV '19) | [HackMD](https://hackmd.io/LMTITxOtSlmrLi877J3Ntg) | 19/04/2020 | 01/05/2020 |
