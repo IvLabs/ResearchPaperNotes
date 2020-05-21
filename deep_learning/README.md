@@ -25,3 +25,4 @@
 | Paper| Notes | Author | Start Date | End Date |
 |:-----:|:-----:|:-----:|:----------:|:--------:|
 | [Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (ICCV '19) | [HackMD](https://hackmd.io/LMTITxOtSlmrLi877J3Ntg) | [Akshay](https://akshayk07.weebly.com/) | 19/04/2020 | 01/05/2020 |
+| [Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model](https://arxiv.org/abs/2003.13960) (CVPR '20) | [HackMD](https://hackmd.io/nwM8AKmtStGStXbRWVQnrg) | [Akshay](https://akshayk07.weebly.com/) | 05/05/2020 | 21/05/2020 |
