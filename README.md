@@ -2,6 +2,7 @@
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
 ## List of Topics
+To read research paper notes made by IvLabs members, please click on the follwing topic links.
 * [Reinforcement Learning](reinforcement_learning)
 * [Deep Learning](deep_learning)
 * [Math Concepts](math)
