@@ -24,5 +24,6 @@
 ### Knowledge Distillation
 | Paper| Notes | Author | Start Date | End Date |
 |:-----:|:-----:|:-----:|:----------:|:--------:|
-| [Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (ICCV '19) | [HackMD](https://hackmd.io/LMTITxOtSlmrLi877J3Ntg) | [Akshay](https://akshayk07.weebly.com/) | 19/04/2020 | 01/05/2020 |
+| [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) (ICLR '17) | [HackMD](https://hackmd.io/@akshayk07/BkzGciz38) | [Akshay](https://akshayk07.weebly.com/) | 01/06/20 | 03/06/20 |
 | [Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model](https://arxiv.org/abs/2003.13960) (CVPR '20) | [HackMD](https://hackmd.io/nwM8AKmtStGStXbRWVQnrg) | [Akshay](https://akshayk07.weebly.com/) | 05/05/2020 | 21/05/2020 |
+| [Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (ICCV '19) | [HackMD](https://hackmd.io/LMTITxOtSlmrLi877J3Ntg) | [Akshay](https://akshayk07.weebly.com/) | 19/04/2020 | 01/05/2020 |
