@@ -3,9 +3,10 @@ Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
 ## List of Topics
 To read research paper notes made by IvLabs members, please click on the follwing topic links.
-* [Reinforcement Learning](reinforcement_learning)
 * [Deep Learning](deep_learning)
+* [Localization](localization)
 * [Math Concepts](math)
+* [Reinforcement Learning](reinforcement_learning)
 
 ## Rules of appending papers:
 1. You should thoroughly read research paper and make proper notes using [HackMD](https://hackmd.io/).
