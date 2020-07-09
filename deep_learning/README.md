@@ -19,6 +19,8 @@
 ### Domain Adaptation
 | Paper| Notes | Author | Start Date | End Date |
 |:-----:|:-----:|:-----:|:----------:|:--------:|
+| [Phase Consistent Ecological Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Phase_Consistent_Ecological_Domain_Adaptation_CVPR_2020_paper.html) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/HkRSZC00I) | [Akshay](https://akshayk07.weebly.com/) | 05/07/2020 | 09/07/2020 |
+| [FDA: Fourier Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/SkktSZC0L) | [Akshay](https://akshayk07.weebly.com/) | 04/07/2020 | 05/07/2020 |
 | [Domain Adaptation for Structured Output via Discriminative Patch Representations](https://arxiv.org/abs/1901.05427) (ICCV '19) | [HackMD](https://hackmd.io/Nh2sTmn1RpSeytghA6E2JQ) | [Akshay](https://akshayk07.weebly.com/) | 19/04/2020 | 21/04/2020 |
 
 ### Knowledge Distillation
