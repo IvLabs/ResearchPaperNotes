@@ -26,7 +26,7 @@
 ### Knowledge Distillation
 | Paper| Notes | Author | Start Date | End Date |
 |:-----:|:-----:|:-----:|:----------:|:--------:|
-| [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) | [HackMD](https://hackmd.io/AntG2tWLQw-dflF5Y1fXig) | [Raj](https://github.com/RajGhugare19) | 07/07/2020 | 09/07/2020 |
+| [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) (NIPS '14W) | [HackMD](https://hackmd.io/AntG2tWLQw-dflF5Y1fXig) | [Raj](https://github.com/RajGhugare19) | 07/07/2020 | 09/07/2020 |
 | [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) (CVPR '17) | [HackMD](https://hackmd.io/@akshayk07/rkj6RFc28) | [Akshay](https://akshayk07.weebly.com/) | 07/06/2020 | 10/06/2020 |
 | [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) (ICLR '17) | [HackMD](https://hackmd.io/@akshayk07/BkzGciz38) | [Akshay](https://akshayk07.weebly.com/) | 01/06/2020 | 03/06/2020 |
 | [Active Mixup for Data-Efficient Knowledge Distillation from a Blackbox Model](https://arxiv.org/abs/2003.13960) (CVPR '20) | [HackMD](https://hackmd.io/nwM8AKmtStGStXbRWVQnrg) | [Akshay](https://akshayk07.weebly.com/) | 05/05/2020 | 21/05/2020 |
