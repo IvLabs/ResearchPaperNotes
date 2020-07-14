@@ -2,6 +2,7 @@
 
 | Paper | Notes | Author| Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
+| [Reinforcement Learning via Fenchel Rockafellar Duality](https://arxiv.org/abs/2001.01866) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkZ5s2Y1P) | [Sharath](https://sharathraparthy.github.io/) | TODO |
 | [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438) | [HackMD](https://hackmd.io/3azkwbmgRLSrqyvUHf5SqQ?view) | [Raj](https://github.com/RajGhugare19) | TODO |
 | [Off-Policy Actor-Critic](https://arxiv.org/abs/1205.4839) (ICML '12) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkcB-xwvI) | [Sharath](https://sharathraparthy.github.io/) | TODO |
 | [Combining Physical Simulators and Object-Based Networks for Control](https://arxiv.org/pdf/1904.06580.pdf) (ICRA '19) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy6GPG9MB) | [Sharath](https://sharathraparthy.github.io/)| TODO |
