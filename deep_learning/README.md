@@ -13,6 +13,7 @@
 ### Domain Adaptation
 | Paper| Notes | Author | Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
+| [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703) (CVPR '20 Oral) | [HackMD](https://hackmd.io/@akshayk07/SkwXI-jkP) | [Akshay](https://akshayk07.weebly.com/) | TODO |
 | [Unsupervised Domain Adaptation with Residual Transfer Networks](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf) (NIPS '16) | [HackMD](https://hackmd.io/@akshayk07/S1O9iopRU) | [Akshay](https://akshayk07.weebly.com/) | TODO |
 | [Phase Consistent Ecological Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Phase_Consistent_Ecological_Domain_Adaptation_CVPR_2020_paper.html) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/HkRSZC00I) | [Akshay](https://akshayk07.weebly.com/) | TODO |
 | [FDA: Fourier Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/SkktSZC0L) | [Akshay](https://akshayk07.weebly.com/) | TODO |
