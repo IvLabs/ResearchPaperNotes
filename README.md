@@ -1,5 +1,5 @@
 # Research Paper Notes
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IvLabs/ResearchPaperNotes/blob/master/LICENSE.md) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/resources?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IvLabs/ResearchPaperNotes/blob/master/LICENSE.md) [![GitHub stars](https://github.com/IvLabs/ResearchPaperNotes/stargazers?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
 
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
