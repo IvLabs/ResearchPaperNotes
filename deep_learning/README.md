@@ -11,6 +11,7 @@
 | [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf) | [HackMD](https://hackmd.io/UpB9AC5CT0yTUmxGIsIArw) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a review on semantic segmentation approaches - traditional as well as DL-based. |
 
 ### Domain Adaptation
+
 | Paper| Notes | Author | Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703) (CVPR '20 Oral) | [HackMD](https://hackmd.io/@akshayk07/SkwXI-jkP) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a two-step self-supervised DA approach to minimize the inter-domain and intra-domain gap together. |
@@ -20,6 +21,7 @@
 | [Domain Adaptation for Structured Output via Discriminative Patch Representations](https://arxiv.org/abs/1901.05427) (ICCV '19) | [HackMD](https://hackmd.io/Nh2sTmn1RpSeytghA6E2JQ) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a UDA approach that explicitly discovers many modes in the structured output space of semantic segmentation to learn a better discriminator between the 2 domains, ultimately leading to a better domain alignment. |
 
 ### Knowledge Distillation
+
 | Paper| Notes | Author | Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) (NIPS '14W) | [HackMD](https://hackmd.io/AntG2tWLQw-dflF5Y1fXig) | [Raj](https://github.com/RajGhugare19) | This paper is the first DL approach to transfer knowledge from a teacher network to a student network, and uses softened outputs of the teacher network for training the student network. |
