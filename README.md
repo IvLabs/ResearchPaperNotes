@@ -1,4 +1,6 @@
 # Research Paper Notes
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
+
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
 ## List of Topics
