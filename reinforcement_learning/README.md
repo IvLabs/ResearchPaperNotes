@@ -1,6 +1,6 @@
 ## Reinforcement Learning
 
-| Paper | Notes | Author| Single Line Summary |
+| Paper | Notes | Author| Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Reinforcement Learning via Fenchel Rockafellar Duality](https://arxiv.org/abs/2001.01866) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/rkZ5s2Y1P) | [Sharath](https://sharathraparthy.github.io/) | This  paper reviews the basic concepts of fenchel duality, f-divergences and shows how can these set of tools can be applied tin the context of reinforcement learning to derive theoritcally as well as practically robust algorithms|
 | [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438) | [HackMD](https://hackmd.io/3azkwbmgRLSrqyvUHf5SqQ?view) | [Raj](https://github.com/RajGhugare19) | This paper gives an algorithm with an advantage estimator and TRPO technique to empirically guarantee monotonic policy improvement |
