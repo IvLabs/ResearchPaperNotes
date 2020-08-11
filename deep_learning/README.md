@@ -12,7 +12,8 @@
 
 ### Domain Adaptation
 
-| Paper| Notes | Author | Summary |
+
+| Paper| Notes | Author | Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703) (CVPR '20 Oral) | [HackMD](https://hackmd.io/@akshayk07/SkwXI-jkP) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a two-step self-supervised DA approach to minimize the inter-domain and intra-domain gap together. |
 | [Unsupervised Domain Adaptation with Residual Transfer Networks](https://papers.nips.cc/paper/6110-unsupervised-domain-adaptation-with-residual-transfer-networks.pdf) (NIPS '16) | [HackMD](https://hackmd.io/@akshayk07/S1O9iopRU) | [Akshay](https://akshayk07.weebly.com/) | A domain adaptation approach that can jointly learn adaptive classifiers and transferable features from labeled data in the source domain and unlabeled data in the target domain. |
@@ -22,7 +23,8 @@
 
 ### Knowledge Distillation
 
-| Paper| Notes | Author | Summary |
+
+| Paper| Notes | Author | Single Line Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) (NIPS '14W) | [HackMD](https://hackmd.io/AntG2tWLQw-dflF5Y1fXig) | [Raj](https://github.com/RajGhugare19) | This paper is the first DL approach to transfer knowledge from a teacher network to a student network, and uses softened outputs of the teacher network for training the student network. |
 | [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) (CVPR '17) | [HackMD](https://hackmd.io/@akshayk07/rkj6RFc28) | [Akshay](https://akshayk07.weebly.com/) | This paper formulates the knowledge to be transferred in terms of flow between layers, calculates it as the inner product between feature maps from 2 layers, and uses this for Knowledge Distillation. |
