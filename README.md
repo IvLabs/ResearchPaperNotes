@@ -1,5 +1,5 @@
 # Research Paper Notes
-[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fivlabs.github.io%2FResearchPaperNotes%2F)](https://ivlabs.github.io/ResearchPaperNotes/) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fivlabs.github.io%2FResearchPaperNotes%2F)](https://ivlabs.github.io/ResearchPaperNotes/) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
 
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
