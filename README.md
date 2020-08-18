@@ -9,6 +9,7 @@ To read research paper notes made by IvLabs members, please click on the follwin
 * [Dynamics and Controls](dynamics_controls)
 * [Localization](localization)
 * [Math Concepts](math)
+* [Natural Language Processing](natural_language_processing)
 * [Reinforcement Learning](reinforcement_learning)
 
 ## Rules of appending papers:
