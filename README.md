@@ -10,6 +10,7 @@ To read research paper notes made by IvLabs members, please click on the follwin
 * [Localization](localization)
 * [Math Concepts](math)
 * [Reinforcement Learning](reinforcement_learning)
+* [Natural Language Processing](natural_language_processing)
 
 ## Rules of appending papers:
 1. You should thoroughly read research paper and make proper notes using [HackMD](https://hackmd.io/).
