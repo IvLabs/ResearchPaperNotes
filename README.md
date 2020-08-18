@@ -1,5 +1,5 @@
 # Research Paper Notes
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
+[![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fivlabs.github.io%2FResearchPaperNotes%2F)](https://ivlabs.github.io/ResearchPaperNotes/) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
 
 Initiative to read research papers at [IvLabs](http://www.ivlabs.in/)
 
@@ -18,4 +18,3 @@ To read research paper notes made by IvLabs members, please click on the follwin
 1. You can then create a pull request to merge this. For help on creating pull requests please click [here](https://github.com/IvLabs/resources/tree/master/software).
 1. If anyone feels that there are changes required in HackMD notes, Please add comments in the note ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
 1. These comments will be reviewed and proper actions will be taken by authors.
-
