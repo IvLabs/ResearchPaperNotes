@@ -1,7 +1,5 @@
 # Literature Study Tips
 
-###### tags: `Tips`
-
 # Table of Contents
 
 * [Reading Research Papers](#reading-research-papers)
