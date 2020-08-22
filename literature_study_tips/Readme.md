@@ -80,9 +80,7 @@ To understand the Maths behind the paper
 
 * Keep reading papers consistently
 	* In doing so you won't gain expertise in one day, you won't get a lot of knowledge from reading one paper a weekend. But if you keep doing this for a year, you'll reach somewhere
-* Work with great people
-	* One great project is better than many lame projects
+* One great project is better than many lame projects
 * Focus on the team (people you interact with)
 * Maintain a work-life balance
-
 
