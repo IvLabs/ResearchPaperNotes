@@ -28,9 +28,9 @@ These are the notes from the amazing lecture by Andrew Ng, full video can be vie
     - Articles/Blogs
 - Skim through the list of resources
     - Make a table, where rows represent lists of papers and a column for a metric of how much you understood through skimming (10-100%)
-    	- Now read the one with the lowest value of the metric, try to understand the paper, if you can't, go to the references, and read those till you get a basic idea of the paper.
+    	- Now read the one with the lowest value of the metric, try to understand the paper, if you can't, go to the references, and read those till you get a basic idea of the paper
 	- Keep doing this till you have a basic knowledge of the papers
-    - Then Select the papers you feel is worthy enough to be completely read.
+    - Then select the papers you feel is worthy enough to be completely read
     - Reading around 5-20 papers, you'll have some basic idea of the field and for implementing the works
     - Reading around 50-100 papers, you'll have a deep understanding to do in-depth research (it does not mean you have mastered the field :smile:)
 
@@ -67,14 +67,14 @@ Ask yourself these questions while reading the paper
 
 To understand the Maths behind the paper
 - Read a few passes and make detailed notes
-- Try to rederive the math from scratch on blank paper, 
+- Try to rederive the math from scratch on blank paper
     - If you can do this, then you can learn to derive your own novel algorithms
     	- Eg. People from the art community sit in the art museum and they copy the work of the masters
 
 ### Code
 
-- Download and run the open-source code,
-- And try to reimplement it from scratch
+- Download and run the open-source code
+- Try to reimplement it from scratch
 
 ## Long term advice
 
