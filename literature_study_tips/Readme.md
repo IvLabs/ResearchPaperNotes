@@ -78,10 +78,10 @@ To understand the Maths behind the paper
 
 ## Long term advice
 
-* Read papers regularly for a whole year rather than just reading many on one single day or over a weekend
-    * No short term rewards for doing this, but if you keep doing this consistently for a year or something, you'll reach to great heights
+* Keep reading papers consistently
+	* In doing so you won't gain expertise in one day, you won't get a lot of knowledge from reading one paper a weekend. But if you keep doing this for a year, you'll reach somewhere
 * Work with great people
-	* One Great project is better than Many Lame projects
+	* One great project is better than many lame projects
 * Focus on the team (people you interact with)
 * Maintain a work-life balance
 
