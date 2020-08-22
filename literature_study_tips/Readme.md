@@ -40,7 +40,7 @@ Take multiple passes through the papers
 - First Pass
     - Read Titles, Abstract, and Figures (only figures can sometimes summarize the entire paper)
 - Second Pass
-    - Read more carefully the Introduction, Conclusion, Figures and then Skim rest (skip related work if you're not familiar with it in the second pass)
+    - Read more carefully the Introduction, Conclusion, Figures and then skim through the rest (skip related work if you're not familiar with it in the second pass)
 - Third Pass
     - Read but skip or skim the Math
 - Fourth Pass
@@ -56,9 +56,9 @@ Ask yourself these questions while reading the paper
 
 ## Some Sources of Papers
 
+* Top Tier Conferences like NeurIPS, ICLR, CVPR, ICRA, RSS, IROS (more on this [here](https://github.com/IvLabs/resources/tree/master/conferences))
 * Twitter
 * Subreddits
-* Top Tier Conferences like NeurIPS, ICLR, CVPR, ICRA, RSS, IROS (more on this [here](https://github.com/IvLabs/resources/tree/master/conferences))
 * Paper Reading Groups, Communities and Friends
 
 ## General Tips
@@ -73,7 +73,7 @@ To understand the Maths behind the paper
 
 ### Code
 
-- Download and Run the open-source code,
+- Download and run the open-source code,
 - And try to reimplement it from scratch
 
 ## Long term advice
