@@ -73,7 +73,7 @@ To understand the Maths behind the paper
 
 ### Code
 
-Download and run the open-source code. And Try to reimplement it from scratch
+Download and run the open-source code and try to reimplement it from scratch
 
 ## Long term advice
 
