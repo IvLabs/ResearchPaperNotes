@@ -19,3 +19,5 @@ To read research paper notes made by IvLabs members, please click on the followi
 1. You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
 1. If anyone feels that there are changes required in HackMD notes, please add comments in the notes itself ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
 1. These comments will be reviewed and proper actions will be taken by the authors.
+
+**Some tips for doing literature study can be found [here](literature_study_tips)**
