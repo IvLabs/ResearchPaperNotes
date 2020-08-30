@@ -1,4 +1,4 @@
-## Localization
+## SLAM
 
 | Paper | Notes | Author | Summary |
 |:--------:|:--------:|:--------:|:--------:|
