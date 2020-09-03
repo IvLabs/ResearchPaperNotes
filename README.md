@@ -1,7 +1,7 @@
 # Research Paper Notes
 [![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fivlabs.github.io%2FResearchPaperNotes%2F)](https://ivlabs.github.io/ResearchPaperNotes/) [![GitHub stars](https://img.shields.io/github/stars/IvLabs/ResearchPaperNotes?style=social)](https://github.com/IvLabs/ResearchPaperNotes/stargazers)
 
-Initiative to read research papers at [IvLabs](http://www.ivlabs.in/). For interactive reading experience do visit this repo's [GitHub Page](https://ivlabs.github.io/ResearchPaperNotes/)
+Initiative to read research papers at [IvLabs](http://www.ivlabs.in/). For interactive reading experience do visit this repo's [GitHub Page](https://ivlabs.github.io/ResearchPaperNotes/). If you like the repo, please star. This motivates us to update the repo frequently.
 
 ## List of Topics
 To read research paper notes made by IvLabs members, please click on the following topic links.
@@ -19,3 +19,9 @@ To read research paper notes made by IvLabs members, please click on the followi
 1. You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
 1. If anyone feels that there are changes required in HackMD notes, please add comments in the notes itself ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
 1. These comments will be reviewed and proper actions will be taken by the authors.
+
+**Some tips for doing literature study can be found [here](literature_study_tips)**
+
+## Contributors
+
+[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/7)](https://www.ivlabs.in/)
