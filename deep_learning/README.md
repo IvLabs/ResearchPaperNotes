@@ -39,3 +39,8 @@
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Variational Adversarial Active Learning](https://arxiv.org/abs/1904.00370) (ICCV '19) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | [Akshay](https://akshayk07.weebly.com/) | This paper introduces a pool-based active learning strategy which learns a low dimensional latent space from labeled and unlabeled data using a VAE. |
+
+### Feature Detection and Description
+| Paper| Notes | Author | Summary |
+|:-----:|:-----:|:-----:|:----------:|
+| [D2 Net - A Trainable CNN for Joint Description and Detection of Local Features](https://arxiv.org/abs/1905.03561) (CVPR 2019) | [HackMD](https://hackmd.io/@AniketGujarathi/SywvV8iQD) | [Aniket Gujarathi](https://in.linkedin.com/in/aniket-gujarathi?challengeId=AQEDMAF_9AXwFwAAAXRt3EcqDDX-bBaPD8lJQdYNLdwVUb8Glw4zzfk8YwZ981WMCuTEac4CKmn6hjuhxkDnRyR0bwHke6sMXg&submissionId=a79a805e-56d1-3216-2ce7-7fa121a84425) | This paper introduces a Deep Learning based approach to solve the problem of local features detection and description using the detect-and-describe approach instead of the traditionally used detect-then-describe approach. |
