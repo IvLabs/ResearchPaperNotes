@@ -47,6 +47,6 @@
 ### Self Supervised Learning
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
-| [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275.pdf) (ECCV '18) | [HackMD](https://hackmd.io/@6GX-kbOaSt6hNkpWQyj20A/r1tnl1gQD) | [Aayush Fadia](https://github.com/aayush-fadia), [Jayesh Kandpal](https://github.com/jayeshk7), [Saketh Bachu](https://github.com/sakethbachu) | This paper presents a real-time RGB-based pipeline for object detection and 6D pose estimation, based on a variant of denoising autoencoder, which is an augumented encoder trained on views of a 3D model using domain randomization. |
+| [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275.pdf) (ECCV '18) | [HackMD](https://hackmd.io/@6GX-kbOaSt6hNkpWQyj20A/r1tnl1gQD) | [Aayush](https://github.com/aayush-fadia), [Jayesh](https://github.com/jayeshk7), [Saketh](https://github.com/sakethbachu) | This paper presents a real-time RGB-based pipeline for object detection and 6D pose estimation, based on a variant of denoising autoencoder, which is an augumented encoder trained on views of a 3D model using domain randomization. |
 
 
