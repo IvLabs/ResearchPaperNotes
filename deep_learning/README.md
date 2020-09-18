@@ -4,14 +4,14 @@
 
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
-| [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/html/Takikawa_Gated-SCNN_Gated_Shape_CNNs_for_Semantic_Segmentation_ICCV_2019_paper.html) (ICCV '19) | [HackMD](https://hackmd.io/tXDEyCEcTmqgaR75Gno0Mw) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a 2-stream CNN i.e. one stream is normal CNN (classical stream) while the other is a shape stream, which explicitly processes shape information in a separate stream. |
-| [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) | [HackMD](https://hackmd.io/5jM_pajoSnS6LoZkdech8A) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a network architecture which is faster and more compact, for low real-time inference times. |
-| [W-Net: A Deep Model for Fully Unsupervised Image Segmentation](https://arxiv.org/abs/1711.08506) | [HackMD](https://hackmd.io/mNcCcyMFRuGLQg97qfTJaQ) | [Akshay](https://akshayk07.weebly.com/) | This paper presents fully unsupervised semantic segmentation using deep networks and a soft version of Normalized Cut. |
-| [Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/abs/1907.06119) | [HackMD](https://hackmd.io/RcL7gzVTTLCfJa1LGJGmZg) | [Akshay](https://akshayk07.weebly.com/) | This paper aims to provide an intuitive understanding of significant DL-based approaches to segmentation. |
-| [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf) | [HackMD](https://hackmd.io/UpB9AC5CT0yTUmxGIsIArw) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a review on semantic segmentation approaches - traditional as well as DL-based. |
+| [Semi-Supervised Semantic Segmentation with Cross-Consistency Training](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ouali_Semi-Supervised_Semantic_Segmentation_With_Cross-Consistency_Training_CVPR_2020_paper.pdf) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/B1uYpeMNw) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes cross-consistency training, where an invariance of the predictions is enforced over different perturbations applied to the outputs of the encoder (in a shared encoder and multiple decoder architecture). |
+| [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/html/Takikawa_Gated-SCNN_Gated_Shape_CNNs_for_Semantic_Segmentation_ICCV_2019_paper.html) (ICCV '19) | [HackMD](https://hackmd.io/@akshayk07/ryhzTGJor) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a 2-stream CNN i.e. one stream is normal CNN (classical stream) while the other is a shape stream, which explicitly processes shape information in a separate stream. |
+| [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) | [HackMD](https://hackmd.io/@akshayk07/rJ4NL3sTB) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a network architecture which is faster and more compact, for low real-time inference times. |
+| [W-Net: A Deep Model for Fully Unsupervised Image Segmentation](https://arxiv.org/abs/1711.08506) | [HackMD](https://hackmd.io/@akshayk07/By3JgvYqB) | [Akshay](https://akshayk07.weebly.com/) | This paper presents fully unsupervised semantic segmentation using deep networks and a soft version of Normalized Cut. |
+| [Understanding Deep Learning Techniques for Image Segmentation](https://arxiv.org/abs/1907.06119) | [HackMD](https://hackmd.io/@akshayk07/HkfeY3EqH) | [Akshay](https://akshayk07.weebly.com/) | This paper aims to provide an intuitive understanding of significant DL-based approaches to segmentation. |
+| [Recent progress in semantic image segmentation](https://arxiv.org/ftp/arxiv/papers/1809/1809.10198.pdf) | [HackMD](https://hackmd.io/@akshayk07/B1lv_WN9B) | [Akshay](https://akshayk07.weebly.com/) | This paper presents a review on semantic segmentation approaches - traditional as well as DL-based. |
 
 ### Domain Adaptation
-
 
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
@@ -24,7 +24,6 @@
 | [Domain Adaptation for Structured Output via Discriminative Patch Representations](https://arxiv.org/abs/1901.05427) (ICCV '19) | [HackMD](https://hackmd.io/Nh2sTmn1RpSeytghA6E2JQ) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a UDA approach that explicitly discovers many modes in the structured output space of semantic segmentation to learn a better discriminator between the 2 domains, ultimately leading to a better domain alignment. |
 
 ### Knowledge Distillation
-
 
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
@@ -39,3 +38,15 @@
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Variational Adversarial Active Learning](https://arxiv.org/abs/1904.00370) (ICCV '19) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | [Akshay](https://akshayk07.weebly.com/) | This paper introduces a pool-based active learning strategy which learns a low dimensional latent space from labeled and unlabeled data using a VAE. |
+
+### Feature Detection and Description
+| Paper| Notes | Author | Summary |
+|:-----:|:-----:|:-----:|:----------:|
+| [D2 Net - A Trainable CNN for Joint Description and Detection of Local Features](https://arxiv.org/abs/1905.03561) (CVPR '19) | [HackMD](https://hackmd.io/@AniketGujarathi/SywvV8iQD) | [Aniket Gujarathi](https://www.linkedin.com/in/aniket-gujarathi/?originalSubdomain=in) | This paper introduces a Deep Learning based approach to solve the problem of local features detection and description using the detect-and-describe approach instead of the traditionally used detect-then-describe approach. |
+
+### Self Supervised Learning
+| Paper| Notes | Author | Summary |
+|:-----:|:-----:|:-----:|:----------:|
+| [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275.pdf) (ECCV '18) | [HackMD](https://hackmd.io/@6GX-kbOaSt6hNkpWQyj20A/r1tnl1gQD) | [Aayush](https://github.com/aayush-fadia), [Jayesh](https://github.com/jayeshk7), [Saketh](https://github.com/sakethbachu) | This paper presents a real-time RGB-based pipeline for object detection and 6D pose estimation, based on a variant of denoising autoencoder, which is an augmented encoder trained on views of a 3D model using domain randomization. |
+
+
