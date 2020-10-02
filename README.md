@@ -26,7 +26,7 @@ To read research paper notes made by IvLabs members, please click on the followi
 
 [![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/7)](https://www.ivlabs.in/)
 
-## Hall of Fame
+## Hall of Fame :trophy:
 
 | Contributor | Number of research paper notes |
 | :--- | :---: |
