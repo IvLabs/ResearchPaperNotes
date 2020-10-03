@@ -15,6 +15,8 @@ To read research paper notes made by IvLabs members, please click on the followi
 * [Reinforcement Learning](reinforcement_learning)
 
 ## Rules of appending papers:
+
+**Read [CONTRIBUTING.md](CONTRIBUTING.md) before adding any reasearch paper notes**
 1. You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/).
 1. HackMD notes must mention those members who were part of reading group.
 1. If notes and paper reading are completed, then update the details in the appropriate table below.
@@ -25,3 +27,12 @@ To read research paper notes made by IvLabs members, please click on the followi
 ## Contributors
 
 [![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/7)](https://www.ivlabs.in/)
+
+## Hall of Fame :trophy:
+
+| Contributor                                                               | Number of research paper notes |
+|:-------------------------------------------------------------------------:|:------------------------------:|
+| [Akshay](https://github.com/akshaykvnit) :1st_place_medal:                | 19                             |
+| [Sharath](https://sharathraparthy.github.io/) :2nd_place_medal:           | 5                              |
+| [Raj](https://github.com/RajGhugare19) :2nd_place_medal:                  | 5                              |
+| [Aniket](https://www.linkedin.com/in/aniket-gujarathi/) :3rd_place_medal: | 3                              |
