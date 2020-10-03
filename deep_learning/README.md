@@ -15,6 +15,7 @@
 
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
+| [Domain Adaptive Semantic Segmentation Using Weak Labels](https://arxiv.org/abs/2007.15176) (ECCV '20) | [HackMD](https://hackmd.io/@akshayk07/rydQyAVHv) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a framework for Domain Adaptation (DA) in semantic segmentation with image-level weak labels in the target domain. They use weak labels to enable the interplay between feature alignment and pseudo-labeling, improving both in DA. |
 | [DACS: Domain Adaptation via Cross-domain Mixed Sampling](https://arxiv.org/abs/2007.08702) | [HackMD](https://hackmd.io/@akshayk07/ByhfvJ7XP) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes Domain Adaptation via Cross-domain Mixed Sampling which mixes images from two domains along with their corresponding labels. These mixed samples are trained on, along with the labelled data itself. |
 | [Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Learning_Texture_Invariant_Representation_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2020_paper.html) (CVPR '20) | [HackMD](https://hackmd.io/@akshayk07/B167fmyGD) | [Akshay](https://akshayk07.weebly.com/) | This paper uses style transfer to enforce texture invariance in the model, followed by self training to adapt to the target domain texture for the semantic segmentation task. |
 | [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703) (CVPR '20 Oral) | [HackMD](https://hackmd.io/@akshayk07/SkwXI-jkP) | [Akshay](https://akshayk07.weebly.com/) | This paper proposes a two-step self-supervised DA approach to minimize the inter-domain and intra-domain gap together. |
@@ -40,11 +41,13 @@
 | [Variational Adversarial Active Learning](https://arxiv.org/abs/1904.00370) (ICCV '19) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | [Akshay](https://akshayk07.weebly.com/) | This paper introduces a pool-based active learning strategy which learns a low dimensional latent space from labeled and unlabeled data using a VAE. |
 
 ### Feature Detection and Description
+
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [D2 Net - A Trainable CNN for Joint Description and Detection of Local Features](https://arxiv.org/abs/1905.03561) (CVPR '19) | [HackMD](https://hackmd.io/@AniketGujarathi/SywvV8iQD) | [Aniket Gujarathi](https://www.linkedin.com/in/aniket-gujarathi/?originalSubdomain=in) | This paper introduces a Deep Learning based approach to solve the problem of local features detection and description using the detect-and-describe approach instead of the traditionally used detect-then-describe approach. |
 
 ### Self Supervised Learning
+
 | Paper| Notes | Author | Summary |
 |:-----:|:-----:|:-----:|:----------:|
 | [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275.pdf) (ECCV '18) | [HackMD](https://hackmd.io/@6GX-kbOaSt6hNkpWQyj20A/r1tnl1gQD) | [Aayush](https://github.com/aayush-fadia), [Jayesh](https://github.com/jayeshk7), [Saketh](https://github.com/sakethbachu) | This paper presents a real-time RGB-based pipeline for object detection and 6D pose estimation, based on a variant of denoising autoencoder, which is an augmented encoder trained on views of a 3D model using domain randomization. |
