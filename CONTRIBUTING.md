@@ -1,3 +1,14 @@
+## Rules for appending papers:
+
+1. You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/).
+2. HackMD notes must mention those members who were part of reading group.
+3. If notes and paper reading are completed, then update the details in the appropriate table below.
+4. You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
+5. If anyone feels that there are changes required in HackMD notes, please add comments in the notes itself ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
+6. These comments will be reviewed and proper actions will be taken by the authors.
+
+____
+
 ## Steps to put up an issue:
 
 1. Click on the [Issue button](https://github.com/IvLabs/ResearchPaperNotes/issues) at top of the page.
@@ -8,6 +19,8 @@
 ____
 
 ## Steps to create a pull request:
+
+**All pull requests should be made for `devel` branch only.**
 
 In order to contribute, you have to create a Pull Request from your forked repository which is a remote clone of this upstream repository. 
 
@@ -30,18 +43,13 @@ In order to contribute, you have to create a Pull Request from your forked repos
 
 6. Contributers must follow these guidelines:
 
-   1. You are encouraged to add links to the following:
-      1. Online courses
-      2. Books
-      3. Tutorials/Code Implementations
-      4. Important Research Papers
-      5. Other useful things
+   1. You are encouraged to add paper notes on various topics related to AI and Robotics
    2. All of these should be segregated by sub-topic.
    3. Refer to existing sections before contributing a new one.
    4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](http://github.com/ivlabs/resources/tree/master/software/github#open-source-contributions-with-git). All pull requests should be made for `devel` branch only.
    5. If you create a new topic folder make sure to **link that folder in landing page `README.md`**
    6. The **name of folder should be consistent with exact format of `word1-word2`**. Some NOT allowed forms are `word1 word2`, `word1word2`, `Word1-word2`, etc. This maintains consistency and proper ordering of folder.
-   7. The topic names in [List of Various Fields](https://github.com/IvLabs/resources/blob/devel/CONTRIBUTING.md#list-of-various-fields) should be in increasing alphabetical order.
+   7. The topic names in [List of Various Fields](https://github.com/comrade-om/ResearchPaperNotes/tree/contributing-guide#list-of-topics) should be in increasing alphabetical order.
 
 7. After the contribution work is ready go ahead and add it to staging area: `git add .`
 
@@ -102,12 +110,3 @@ ____
 - [Akshay Kulkarni](https://github.com/akshaykvnit) 
 
 ____
-
-## Rules for appending papers:
-
-1. You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/).
-2. HackMD notes must mention those members who were part of reading group.
-3. If notes and paper reading are completed, then update the details in the appropriate table below.
-4. You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
-5. If anyone feels that there are changes required in HackMD notes, please add comments in the notes itself ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
-6. These comments will be reviewed and proper actions will be taken by the authors.
