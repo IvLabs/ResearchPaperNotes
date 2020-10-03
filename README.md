@@ -15,6 +15,8 @@ To read research paper notes made by IvLabs members, please click on the followi
 * [Reinforcement Learning](reinforcement_learning)
 
 ## Rules of appending papers:
+
+**Read [CONTRIBUTING.md](CONTRIBUTING.md) before adding any reasearch paper notes**
 1. You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/).
 1. HackMD notes must mention those members who were part of reading group.
 1. If notes and paper reading are completed, then update the details in the appropriate table below.
