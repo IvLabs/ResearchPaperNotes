@@ -17,12 +17,14 @@ To read research paper notes made by IvLabs members, please click on the followi
 ## Rules of appending papers:
 
 **Read [CONTRIBUTING.md](CONTRIBUTING.md) before adding any reasearch paper notes**
-1. You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/).
-1. HackMD notes must mention those members who were part of reading group.
-1. If notes and paper reading are completed, then update the details in the appropriate table below.
-1. You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
-1. If anyone feels that there are changes required in HackMD notes, please add comments in the notes itself ([How to add comments](https://hackmd.io/s/how-to-use-comments)).
-1. These comments will be reviewed and proper actions will be taken by the authors.
+- You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/) or annotate the PDF of the research paper and upload it to the Google Drive.
+- The notes must mention those members who were part of reading group.
+- If notes and paper reading are completed, then update the details in the appropriate table below.
+- You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
+- If anyone feels that there are changes required in HackMD or PDF notes, please add comments in the notes itself 
+  * [How to add comments for HackMD Notes](https://hackmd.io/s/how-to-use-comments) 
+  * [How to add comments to Google Drive PDFs](https://gsuiteupdates.googleblog.com/2018/02/comment-on-files-in-drive-preview-mode.html)
+- These comments will be reviewed and proper actions will be taken by the authors.
 
 ## Contributors
 
