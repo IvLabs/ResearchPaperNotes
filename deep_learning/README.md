@@ -38,6 +38,7 @@
 
 | Paper                                                                                  | Notes                                              | Author                                  | Summary                                                                                                                                              |
 |:--------------------------------------------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Cost-Effective REgion-based Active Learning for Semantic Segmentation](http://bmvc2018.org/contents/papers/0437.pdf) (BMVC '18) | [HackMD](https://hackmd.io/@akshayk07/Byasc3i5v) | [Akshay](https://akshayk07.weebly.com/) | This paper introduces an active learning strategy for semantic segmentation that uses an information measure and an annotation cost estimate. |
 | [Variational Adversarial Active Learning](https://arxiv.org/abs/1904.00370) (ICCV '19) | [HackMD](https://hackmd.io/CxZNGh6dS3m2axmP50iN8g) | [Akshay](https://akshayk07.weebly.com/) | This paper introduces a pool-based active learning strategy which learns a low dimensional latent space from labeled and unlabeled data using a VAE. |
 
 ### Feature Detection and Description
