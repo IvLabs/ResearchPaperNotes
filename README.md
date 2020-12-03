@@ -34,7 +34,7 @@ To read research paper notes made by IvLabs members, please click on the followi
 
 | Contributor                                                               | Number of research paper notes |
 |:-------------------------------------------------------------------------:|:------------------------------:|
-| [Akshay](https://github.com/akshaykvnit) :1st_place_medal:                | 20                             |
+| [Akshay](https://github.com/akshaykvnit) :1st_place_medal:                | 21                             |
 | [Sharath](https://sharathraparthy.github.io/) :2nd_place_medal:           | 5                              |
 | [Raj](https://github.com/RajGhugare19) :2nd_place_medal:                  | 5                              |
 | [Aniket](https://www.linkedin.com/in/aniket-gujarathi/) :3rd_place_medal: | 3                              |
