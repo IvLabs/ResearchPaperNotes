@@ -1,5 +1,5 @@
 ## Deep Learning
-<details><summary>Deep Learning</summary>
+<details><summary>Deep Learning Subtopics</summary>
 <p>
 <ul>
   <li> <a href="#semantic-segmentation">Segmantic Segmentation</a> </li>
