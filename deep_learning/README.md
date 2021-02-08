@@ -1,4 +1,20 @@
 ## Deep Learning
+<details><summary>Deep Learning</summary>
+<p>
+<ul>
+  <li> <a href="#semantic-segmentation">Segmantic Segmentation</a> </li>
+  <li><a href="#domain-adaptation">Domain Adaptation</a></li>
+  <li><a href="#knowledge-distillation">Knowledge Distillation</a></li>
+  <li><a href="#active-learning">Active Learning</a></li>
+  <li><a href="#feature-detection-and-description">Feature Detection and Description</a></li>
+  <li><a href="#self-supervised-learning">Self Supervised Learning</a></li>
+  <li><a href="#object-detection">Object Detection</a></li>
+  <li><a href="#curriculum-learning">Curriculum learning</a></li>
+  <li><a href="#bayesian-neural-network">Bayesian Neural Networks</a></li>
+  <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
+</ul>
+</p>
+</details>
 
 ### Semantic Segmentation
 
