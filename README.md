@@ -25,16 +25,3 @@ To read research paper notes made by IvLabs members, please click on the followi
   * [How to add comments for HackMD Notes](https://hackmd.io/s/how-to-use-comments) 
   * [How to add comments to Google Drive PDFs](https://gsuiteupdates.googleblog.com/2018/02/comment-on-files-in-drive-preview-mode.html)
 - These comments will be reviewed and proper actions will be taken by the authors.
-
-## Contributors
-
-[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/0)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/0)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/1)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/1)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/2)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/2)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/3)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/3)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/4)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/4)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/5)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/5)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/6)](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/links/6)[![](https://sourcerer.io/fame/aditya-shirwatkar/IvLabs/ResearchPaperNotes/images/7)](https://www.ivlabs.in/)
-
-## Hall of Fame :trophy:
-
-| Contributor                                                               | Number of research paper notes |
-|:-------------------------------------------------------------------------:|:------------------------------:|
-| [Akshay](https://github.com/akshaykvnit) :1st_place_medal:                | 21                             |
-| [Sharath](https://sharathraparthy.github.io/) :2nd_place_medal:           | 5                              |
-| [Raj](https://github.com/RajGhugare19) :2nd_place_medal:                  | 5                              |
-| [Aniket](https://www.linkedin.com/in/aniket-gujarathi/) :3rd_place_medal: | 3                              |
