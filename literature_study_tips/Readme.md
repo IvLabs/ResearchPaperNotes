@@ -13,6 +13,11 @@
         * [Code](#code)
     * [Long term advice](#long-term-advice)
 
+#How to Read Papers
+
+[Rearch Paper Guidliness](https://drive.google.com/file/d/1_iDyv36jmW-1OvB5VDAY6iH7BUl6c0tX/view?usp=sharing)
+
+
 # Reading Research Papers
 
 These are the notes from the amazing lecture by Andrew Ng, full video can be viewed [here](https://www.youtube.com/watch?v=733m6qBH-jI)
