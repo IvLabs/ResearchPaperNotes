@@ -1,5 +1,7 @@
 # Literature Study Tips
 
+*An alternate resource for reading papers can also be found [here](https://drive.google.com/file/d/1d6zA4rUGwZwtD9CNhs07Kzj1yQjpIwIE/view?usp=sharing)*
+
 # Table of Contents
 
 * [Reading Research Papers](#reading-research-papers)
