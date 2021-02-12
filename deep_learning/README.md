@@ -10,7 +10,8 @@
   <li><a href="#self-supervised-learning">Self Supervised Learning</a></li>
   <li><a href="#object-detection">Object Detection</a></li>
   <li><a href="#curriculum-learning">Curriculum learning</a></li>
-  <li><a href="#bayesian-neural-network">Bayesian Neural Networks</a></li>
+  <li><a href="#bayesian-neural-networks">Bayesian Neural Networks</a></li>
+  <li><a href="causality">Causality</a></li>
   <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
 </ul>
 </p>
@@ -89,6 +90,12 @@
 | Paper                                                                                                                               | Notes                                                         | Author                                                                                                                     | Summary                                                                                                                                                                                                                               |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [Radial Bayesian Neural Networks: Beyond Discrete Support In Large-Scale Bayesian Deep Learning](https://arxiv.org/abs/1907.00865) (AISTATS '20) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/SySL97y3D) | [Sharath](https://sharathraparthy.github.io/) | This paper studies a famous soap bubble problem in high-dimensional probability spaces and how Mean field variational inference sufferes from this. As a work around for this, the paper proposes a new posterior approximation in hyperspherical coordinate system.                                                                                                                                                                                             |
+
+
+### Causality
+| Paper                                                                                                                               | Notes                                                         | Author                                                                                                                     | Summary                                                                                                                                                                                                                               |
+|:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Recurrent Independent Mechanisms](https://arxiv.org/pdf/1909.10893.pdf) (ICLR' 21) | [HackMD](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/BkydH2cx_) | [Sharath](https://sharathraparthy.github.io/) | This paper proposes a new recurrent architecture which takes into account the modularity and independence and shows how this helps in generalisation.                                                                                                                                                                                            |
 
 ### Medical Image Analysis
 
