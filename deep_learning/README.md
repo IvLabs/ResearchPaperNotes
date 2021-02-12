@@ -11,7 +11,7 @@
   <li><a href="#object-detection">Object Detection</a></li>
   <li><a href="#curriculum-learning">Curriculum learning</a></li>
   <li><a href="#bayesian-neural-networks">Bayesian Neural Networks</a></li>
-  <li><a href="causality">Causality</a></li>
+  <li><a href="#causality">Causality</a></li>
   <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
 </ul>
 </p>
