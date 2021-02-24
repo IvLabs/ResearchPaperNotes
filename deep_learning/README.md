@@ -13,6 +13,7 @@
   <li><a href="#bayesian-neural-networks">Bayesian Neural Networks</a></li>
   <li><a href="#causality">Causality</a></li>
   <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
+  <li><a href="#anomaly-detection">Anomaly Detection</a></li>
 </ul>
 </p>
 </details>
@@ -103,3 +104,9 @@
 |:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [On Interpretability of Deep Learning based Skin Lesion Classifiers using Concept Activation Vector](https://arxiv.org/abs/2005.02000) (IJCNN '20) | [HackMD](https://hackmd.io/TAU7CmEcSbalI2xYJlCg9g?view) | [Arihant](https://flagarihant2000.github.io/arihantgaur/), [Prasad](https://prasadvagdargi.github.io/), [Saketh](https://github.com/sakethbachu) | This paper states that the current methods for computer - aided diagnosis are not widely accepted due to their obscure nature. The main aim of this paper is to design a deep learning model that will be trained to make decisions similar to medical experts. Concept Activation vectors are used to map human understandable concepts to RECOD images. The results shows that the classifier learns and encodes human understandable concepts in its latent representation. |
 
+
+### Anomaly Detection
+
+| Paper                                                                                                                                                                                                     | Notes                                              | Author                                  | Summary                                                                                                                                                                                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Abnormal Event Detection in Videos using Spatio Temporal Autoencoder](https://arxiv.org/pdf/1701.01546.pdf)  | [HackMD](https://hackmd.io/TAU7CmEcSbalI2xYJlCg9g?view) | [Raj](https://github.com/RajGhugare19) | This paper proposes a new architecture for anomaly detection in videos. Their architecture includes two main components one for spatial feature representation, and one for learning the temporal evolution of these spatial features. |
