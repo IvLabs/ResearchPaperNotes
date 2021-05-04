@@ -14,7 +14,7 @@
   <li><a href="#causality">Causality</a></li>
   <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
   <li><a href="#anomaly-detection">Anomaly Detection</a></li>
-  <li><a href="#general-adversarial-nets">General Adversarial Nets</a></li>
+  <li><a href="#generative-adversarial-nets">General Adversarial Nets</a></li>
   <li><a href="#recurrent-networks">Recurrent Networks</a></li>
 </ul>
 </p>
@@ -114,11 +114,11 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [Abnormal Event Detection in Videos using Spatio Temporal Autoencoder](https://arxiv.org/pdf/1701.01546.pdf)  | [HackMD](https://hackmd.io/@iGBkTz2JQ2eBRM83nuhCuA/H1J4PB6l_) | [Raj](https://github.com/RajGhugare19) | This paper proposes a new architecture for anomaly detection in videos. Their architecture includes two main components one for spatial feature representation, and one for learning the temporal evolution of these spatial features. |
 
-### General Adversarial Nets
+### Generative Adversarial Nets
 
 | Paper                                                                                                                                                                                                     | Notes                                              | Author                                  | Summary                                                                                                                                                                                                                                                                    |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [General Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)(Neurips '14)  | [HackMD](https://hackmd.io/@iGBkTz2JQ2eBRM83nuhCuA/H1SU1W6WO) | [Raj](https://github.com/RajGhugare19) | This paper proposes a novel "adversarial method" for data generation. It is now considered as one of the classics in deep learning. |
+| [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)(Neurips '14)  | [HackMD](https://hackmd.io/@iGBkTz2JQ2eBRM83nuhCuA/H1SU1W6WO) | [Raj](https://github.com/RajGhugare19) | This paper proposes a novel "adversarial method" for data generation. It is now considered as one of the classics in deep learning. |
 
 ### Medical Image Analysis
 
