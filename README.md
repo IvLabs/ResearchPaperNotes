@@ -19,6 +19,7 @@ To read research paper notes made by IvLabs members, please click on the followi
 *Read [CONTRIBUTING.md](CONTRIBUTING.md) before adding any reasearch paper notes*
 - You should thoroughly read the research paper and make proper notes using [HackMD](https://hackmd.io/) or annotate the PDF of the research paper and upload it to the Google Drive.
 - **New paper notes should be appended on the top of the table.**
+- **While Editing any Markdown table make sure to switch off word wrapping. In case you are using GithHub GUI, use the `No Wrap` setting found in top right corner of text editor.**
 - The notes must mention those members who were part of reading group.
 - If notes and paper reading are completed, then update the details in the appropriate table below.
 - You can then create a pull request to merge the changes. For help on creating pull requests, [refer to this page](https://github.com/IvLabs/resources/tree/master/software).
