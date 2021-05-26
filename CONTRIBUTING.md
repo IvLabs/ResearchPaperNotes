@@ -20,8 +20,6 @@ ____
 
 ## Steps to create a pull request:
 
-**All pull requests should be made for `devel` branch only.**
-
 In order to contribute, you have to create a Pull Request from your forked repository which is a remote clone of this upstream repository. 
 
 1. Click the button at the top right hand corner of the screen to fork this repository, don't forget to star the repository!
@@ -46,7 +44,7 @@ In order to contribute, you have to create a Pull Request from your forked repos
    1. You are encouraged to add paper notes on various topics related to AI and Robotics
    2. All of these should be segregated by sub-topic.
    3. Refer to existing sections before contributing a new one.
-   4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](http://github.com/ivlabs/resources/tree/master/software/github#open-source-contributions-with-git). All pull requests should be made for `devel` branch only.
+   4. Follow the Fork-Commit-Pull Request cycle for contributing, more on this [here](http://github.com/ivlabs/resources/tree/master/software/github#open-source-contributions-with-git).
    5. If you create a new topic folder make sure to **link that folder in landing page `README.md`**
    6. The **name of folder should be consistent with exact format of `word1-word2`**. Some NOT allowed forms are `word1 word2`, `word1word2`, `Word1-word2`, etc. This maintains consistency and proper ordering of folder.
    7. The topic names in [List of Various Fields](https://github.com/comrade-om/ResearchPaperNotes/tree/contributing-guide#list-of-topics) should be in increasing alphabetical order.
