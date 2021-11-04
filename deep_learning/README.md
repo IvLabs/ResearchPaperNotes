@@ -20,7 +20,7 @@
 </p>
 </details>
 
-**IMPORTANT INSTRUCTION**: While Editing this Markdown make sure to switch off word wrapping. In case you are using GithHub GUI, use the `No Wrap` setting found in top right corner of text editor.
+**IMPORTANT INSTRUCTION**: While Editing this Markdown make sure to switch off word wrapping. In case you are using GitHub GUI, use the `No Wrap` setting found in top right corner of text editor.
 
 ### Domain Adaptation
 
@@ -77,6 +77,12 @@
 | [Patch2Pix: Epipolar - Guided Pixel - Level Correspondences](https://arxiv.org/pdf/2012.01909.pdf)                                | [HackMD](https://hackmd.io/@GaurArihant/BJ5qmZZlu)     | [Arihant](https://flagarihant2000.github.io/arihantgaur/), [Saurabh](https://saurabhkemekar.github.io/Saurabh-Kemekar/)  |This paper proposes a new method on determining pixel-level correspondences in a detect - to - refine manner. It follows a weakly supervised learning approach, guided by the epipolar geometry of input image pair.                                                              |
 | [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510.pdf) (NeurIPS '18)                                            | [HackMD](https://hackmd.io/@GaurArihant/S1NAT2QJO)     | [Arihant](https://flagarihant2000.github.io/arihantgaur/), [Saurabh](https://saurabhkemekar.github.io/Saurabh-Kemekar/)  |The paper proposes an end - to - end trainable CNN architecture identifying consistent matches by analysing neighbourhood consensus patterns. The paper also demonstrates the use of weak supervision as matching and non - matching pairs, rather than using manual annotations. |
 | [D2 Net - A Trainable CNN for Joint Description and Detection of Local Features](https://arxiv.org/abs/1905.03561) (CVPR '19)     | [HackMD](https://hackmd.io/@AniketGujarathi/SywvV8iQD) | [Aniket Gujarathi](https://www.linkedin.com/in/aniket-gujarathi/?originalSubdomain=in)                                   | This paper introduces a Deep Learning based approach to solve the problem of local features detection and description using the detect-and-describe approach instead of the traditionally used detect-then-describe approach.                                                    |
+
+### Self Supervised Learning
+
+| Paper                                                                                                                 | Notes                                               | Author                                    | Summary                                                                                                                                                                                                                                                                         |
+|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (ICML 2020) | [HackMD](https://hackmd.io/@mathurpulkit/HJX91MnJK) | [Pulkit](https://github.com/mathurpulkit) |  This paper provides a simpler and a more efficient way of Contrastive Self-Supervised Learning without using specialised architectures. The paper uses design methods from various architectures and incorporates them to achieve SOTA performance on Representation Learning. |
 
 ### Unsupervised Learning
 
