@@ -1,0 +1,66 @@
+# https://github.com/marketplace/actions/auto-request-review
+reviewers:
+  # The default reviewers
+  defaults:
+   - default-reviewers 
+  
+  groups:
+    default-reviewers:
+      - team:repo-maintainer
+    controls:
+      - aditya-shirwatkar
+      - Kush0301
+      - Nachiket497
+      - RiVer2000
+    nlp:
+      - rishika2110
+      - GlazeDonuts
+      - aayush-fadia
+      - aneesh-shetye
+      - Diksha942
+      - Kshitij-Ambilduke
+    localization:
+      - Kush0301
+      - prakrutk
+    rl:
+      - RajGhugare19
+      - M-NEXT
+    dl:
+    #  - GlazeDonuts
+    #  - rishika2110
+    #  - aayush-fadia
+    #  - take2rohit
+     - Kshitij-Ambilduke
+     - sibam23
+     - vignesh-creator
+    math:
+     - GlazeDonuts
+
+
+
+files:
+  # Keys are glob expressions.
+  # You can assign groups defined above as well as GitHub usernames.
+  '**':
+    - default-reviewers  # group
+  'dynamics_controls/**':
+    - controls # group
+  'deep_learning/**':
+    - dl # group
+  'natural_language_processing/**':
+    - nlp # group
+  'reinforcement_learning/**':
+    - rl
+  'localization/**':
+    - localization
+  'math/**':
+    - math
+  '.github/**':
+    - ABD-01 # username
+
+options:
+  ignore_draft: true
+  ignored_keywords:
+    - DO NOT REVIEW
+  enable_group_assignment: false
+  number_of_reviewers: 5
