@@ -7,12 +7,11 @@
   <li><a href="#knowledge-distillation">Knowledge Distillation</a></li>
   <li><a href="#active-learning">Active Learning</a></li>
   <li><a href="#feature-detection-and-description">Feature Detection and Description</a></li>
-  <li><a href="#self-supervised-learning">Self Supervised Learning</a></li>
+  <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
   <li><a href="#object-detection">Object Detection</a></li>
   <li><a href="#curriculum-learning">Curriculum learning</a></li>
   <li><a href="#bayesian-neural-networks">Bayesian Neural Networks</a></li>
   <li><a href="#causality">Causality</a></li>
-  <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
   <li><a href="#anomaly-detection">Anomaly Detection</a></li>
   <li><a href="#generative-adversarial-nets">General Adversarial Nets</a></li>
   <li><a href="#recurrent-networks">Recurrent Networks</a></li>
@@ -79,18 +78,13 @@
 | [Neighbourhood Consensus Networks](https://arxiv.org/pdf/1810.10510.pdf) (NeurIPS '18)                                            | [HackMD](https://hackmd.io/@GaurArihant/S1NAT2QJO)     | [Arihant](https://flagarihant2000.github.io/arihantgaur/), [Saurabh](https://saurabhkemekar.github.io/Saurabh-Kemekar/)  |The paper proposes an end - to - end trainable CNN architecture identifying consistent matches by analysing neighbourhood consensus patterns. The paper also demonstrates the use of weak supervision as matching and non - matching pairs, rather than using manual annotations. |
 | [D2 Net - A Trainable CNN for Joint Description and Detection of Local Features](https://arxiv.org/abs/1905.03561) (CVPR '19)     | [HackMD](https://hackmd.io/@AniketGujarathi/SywvV8iQD) | [Aniket Gujarathi](https://www.linkedin.com/in/aniket-gujarathi/?originalSubdomain=in)                                   | This paper introduces a Deep Learning based approach to solve the problem of local features detection and description using the detect-and-describe approach instead of the traditionally used detect-then-describe approach.                                                    |
 
-### Self Supervised Learning
-
-| Paper                                                                                                                 | Notes                                               | Author                                    | Summary                                                                                                                                                                                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (ICML 2020) | [HackMD](https://hackmd.io/@mathurpulkit/HJX91MnJK) | [Pulkit](https://github.com/mathurpulkit) |  This paper provides a simpler and a more efficient way of Contrastive Self-Supervised Learning without using specialised architectures. The paper uses design methods from various architectures and incorporates them to achieve SOTA performance on Representation Learning. |
-
 ### Unsupervised Learning
 
 | Paper                                                                                                                               | Notes                                                         | Author                                                                                                                     | Summary                                                                                                                                                                                                                               |
 |:-----------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [Deep Clustering for Unsupervised Learning of Visual Features](https://arxiv.org/pdf/1807.05520.pdf) (ECCV 2018)                    | [HackMD](https://hackmd.io/@take2rohit/HJ4CneLDd)             | [Rohit](https://rohitlal.net/)                                                                                            | A clustering method that jointly learns the parameters of a neural network and the cluster assignments of the resulting features                                                                                                      |
 | [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275.pdf) (ECCV '18) | [HackMD](https://hackmd.io/@6GX-kbOaSt6hNkpWQyj20A/r1tnl1gQD) | [Aayush](https://github.com/aayush-fadia), [Jayesh](https://github.com/jayeshk7), [Saketh](https://github.com/sakethbachu) | This paper presents a real-time RGB-based pipeline for object detection and 6D pose estimation, based on a variant of denoising autoencoder, which is an augmented encoder trained on views of a 3D model using domain randomization. |
+| [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) (ICML 2020) | [HackMD](https://hackmd.io/@mathurpulkit/HJX91MnJK) | [Pulkit](https://github.com/mathurpulkit) |  This paper provides a simpler and a more efficient way of Contrastive Self-Supervised Learning without using specialised architectures. The paper uses design methods from various architectures and incorporates them to achieve SOTA performance on Representation Learning. |
 
 ### Object Detection
 
