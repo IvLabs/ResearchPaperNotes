@@ -7,12 +7,11 @@
   <li><a href="#knowledge-distillation">Knowledge Distillation</a></li>
   <li><a href="#active-learning">Active Learning</a></li>
   <li><a href="#feature-detection-and-description">Feature Detection and Description</a></li>
-  <li><a href="#self-supervised-learning">Self Supervised Learning</a></li>
+  <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
   <li><a href="#object-detection">Object Detection</a></li>
   <li><a href="#curriculum-learning">Curriculum learning</a></li>
   <li><a href="#bayesian-neural-networks">Bayesian Neural Networks</a></li>
   <li><a href="#causality">Causality</a></li>
-  <li><a href="#medical-image-analysis">Medical Image Analysis</a></li>
   <li><a href="#anomaly-detection">Anomaly Detection</a></li>
   <li><a href="#generative-adversarial-nets">General Adversarial Nets</a></li>
   <li><a href="#recurrent-networks">Recurrent Networks</a></li>
